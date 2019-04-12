@@ -1,0 +1,16 @@
+/* CSS files add styling rules to your content */
+
+body {
+  background-color: #eff7f5;
+  font-family: montserrat;
+}
+
+p {
+  margin-top: 20px;
+}
+
+a {
+  color: #39826f;
+  background-color: #23d3a4;
+  text-decoration: blink;
+}
